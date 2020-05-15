@@ -1,2 +1,2 @@
-prompt('Nikolay never sleep')
+prompt('Nikolay sleep')
 alert('wake up')
